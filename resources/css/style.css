@@ -4,10 +4,9 @@
 }
 .header{
   background-image: url("../../resources/images/the-flatiron-building.png");
-  background-repeat: no-repeat;
-  position: relative;
   color: white;
   text-align: center;
+  position: relative;
 }
 h1{
   font-size: 70px;
@@ -39,11 +38,11 @@ h3{
 }
 .midtitle h3{
   background-image: url("../../resources/images/the-flatiron-building.png");
-  background-repeat: no-repeat;
   position: relative;
   color: white;
 }
 .nav li{
   list-style-type: none;
   padding-bottom: 10px;
+  position: relative;
 }
